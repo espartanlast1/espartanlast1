@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Castilla</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<h3 align="center">Computer Science</h3>
 
-- I'm currently Studing at the Universidad Europea de Madrid
-
-- 👨‍💻 Some of my fun projects are available at [https://github.com/espartanlast1]
-
-- 💬 Ask me about **Python, Java, C++, PHP, HTML, CSS , GitHub, Git, SQL, and more. **
-
-- 📫 How to reach me **""@outlook.com**
+Sometimes I do cool things with computers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
